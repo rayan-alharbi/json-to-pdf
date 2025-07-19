@@ -1,5 +1,5 @@
-# json_to_pdf  
-# أداة json_to_pdf
+# json to pdf  
+# أداة json to pdf
 
 A powerful Python utility to split and convert JSON data into well-formatted PDF documents.  
 أداة بايثون قوية لتقسيم وتحويل بيانات JSON إلى مستندات PDF منسقة بشكل احترافي.
